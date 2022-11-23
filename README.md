@@ -4,5 +4,6 @@ Image-based quantified visibility estimation is an important task for both atmos
 
 ![image](https://user-images.githubusercontent.com/7878040/203505832-88e88990-18ae-4924-aeb2-9527963970a8.png)
 
-### [QVEData will available for scientific purpose only.]
+### [QVEData will be available for scientific purpose only.]
 
+### [Code will be available soon.]
